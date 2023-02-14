@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://bookstore:q23Me8aJN8mvOs6b@cluster0.ljrxter.mongodb.net/?retryWrites=true&w=majority"
+  }
