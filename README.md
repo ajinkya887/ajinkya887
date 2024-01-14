@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya887&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya887" /> </p>
 
-- 🌱 I’m currently learning **UI/ UX, react**
+- 🌱 I’m currently learning **Python, SQL, PowerBi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajinkya887](https://github.com/ajinkya887)
 
