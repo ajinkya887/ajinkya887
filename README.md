@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajinkya887](https://github.com/ajinkya887)
 
-- 💬 Ask me about **React, DSA, Java, HTML, CSS**
+- 💬 Ask me about **Javascript, React, DSA, Java, HTML, CSS**
 
 - 📫 How to reach me **ajinkyasontakke07@gmail.com**
 
