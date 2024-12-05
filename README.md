@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Sontakke</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya887&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya887" /> </p>
 
-- 🌱 I’m currently learning **Python, SQL, PowerBi**
+- 🌱 I’m currently learning **Javacsript, NodeJS, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajinkya887](https://github.com/ajinkya887)
 
-- 💬 Ask me about **Javascript, React, DSA, Java, HTML, CSS**
+- 💬 Ask me about **Javascript, React, DSA, Java, HTML, CSS, NodeJS, ExpressJS**
 
 - 📫 How to reach me **ajinkyasontakke07@gmail.com**
 
